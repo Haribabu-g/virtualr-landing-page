@@ -53,6 +53,10 @@ npm run dev
 ## 🎓 Reference
 This project was built by following [this tutorial](https://youtu.be/EwzWg-Joxq0?si=sc0CIILPyz9VHNiZ) on YouTube.
 
+---
+
+⭐ If you like this repo, consider giving it a star! ⭐
+
 ## 📌 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
