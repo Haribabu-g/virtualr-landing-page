@@ -1,12 +1,61 @@
-# React + Vite
+# VirtualR Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern and visually appealing landing page for a virtual reality product, showcasing features, pricing, and testimonials. Built using React and Tailwind CSS.
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo  
+Check out the live demo: [VirtualR Landing Page](https://virtualr-landing-page-mu.vercel.app/) (opens in a new tab).
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📂 Project Structure
+
+- **public/**: Static assets
+- **src/**: Main source code including components and assets
+- **components/**: Reusable React components
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Build Tool:** Vite
+- **Deployment:** Vercel
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Haribabu-g/virtualr-landing-page.git
+
+# Navigate to the project directory
+cd virtualr-landing-page
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 💻 Usage
+
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
+4. Access the app at `http://localhost:5173`
+
+## ✨ Features
+
+- Responsive Design
+- Smooth Animations
+- Modern UI with Tailwind CSS
+- Optimized for Performance
+
+## 🎓 Reference
+This project was built by following [this tutorial](https://youtu.be/EwzWg-Joxq0?si=sc0CIILPyz9VHNiZ) on YouTube.
+
+
+---
+
+Feel free to contribute to this project by submitting issues or pull requests!
+
+
