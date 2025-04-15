@@ -1,7 +1,5 @@
 # 🚀 VirtualR Landing Page
 
-
-
 A modern and visually appealing landing page for a virtual reality product, showcasing features, pricing, and testimonials. Built using React and Tailwind CSS.
 
 ## 🚀 Live Demo  
@@ -20,6 +18,7 @@ Check out the live demo: [VirtualR Landing Page](https://virtualr-landing-page-m
 - **Build Tool:** Vite
 - **Deployment:** Vercel
 
+---
 ## 📦 Installation
 
 ```bash
@@ -35,6 +34,7 @@ npm install
 # Start the development server
 npm run dev
 ```
+---
 
 ## 💻 Usage
 
@@ -53,11 +53,16 @@ npm run dev
 ## 🎓 Reference
 This project was built by following [this tutorial](https://youtu.be/EwzWg-Joxq0?si=sc0CIILPyz9VHNiZ) on YouTube.
 
----
+
 
 ## 📌 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
+
+
+## Contributing 🤝
+
+Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
 
 ---
 
@@ -67,8 +72,6 @@ This project was built by following [this tutorial](https://youtu.be/EwzWg-Joxq0
 
 
 
----
 
-Feel free to contribute to this project by submitting issues or pull requests!
 
 
